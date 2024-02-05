@@ -1,0 +1,12 @@
+# ninja log v5
+0	672	1707150874240221703	CMakeFiles/LeetCodeEAltro_.dir/palindrome.cpp.o	7fec27092aad3e8a
+7	400	1707150935149001350	CMakeFiles/LeetCodeEAltro_.dir/palindrome.cpp.o	7fec27092aad3e8a
+400	438	1707150935187665415	LeetCodeEAltro_	8e4515c6b23f52af
+7	662	1707151076372386911	CMakeFiles/LeetCodeEAltro_.dir/palindrome.cpp.o	7fec27092aad3e8a
+662	829	1707151076540391189	LeetCodeEAltro_	8e4515c6b23f52af
+6	314	1707151104531073636	CMakeFiles/LeetCodeEAltro_.dir/palindrome.cpp.o	7fec27092aad3e8a
+314	348	1707151104565424260	LeetCodeEAltro_	8e4515c6b23f52af
+12	684	1707151430256811855	CMakeFiles/LeetCodeEAltro_.dir/palindrome.cpp.o	7fec27092aad3e8a
+684	852	1707151430425235203	LeetCodeEAltro_	8e4515c6b23f52af
+6	318	1707151457016370327	CMakeFiles/LeetCodeEAltro_.dir/palindrome.cpp.o	7fec27092aad3e8a
+318	352	1707151457050565954	LeetCodeEAltro_	8e4515c6b23f52af
